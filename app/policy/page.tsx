@@ -92,7 +92,7 @@ export default function PolicyPage() {
                 <p className="text-gray-700 dark:text-gray-300">
                   <strong className="text-gray-900 dark:text-gray-100">Screenshot of the opt‑in UI:</strong>{" "}
                   <a
-                    href="/screenshot"
+                    href="https://v0-squorum-site.vercel.app/screenshot"
                     className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 underline underline-offset-2"
                   >
                     https://v0-squorum-site.vercel.app/screenshot
