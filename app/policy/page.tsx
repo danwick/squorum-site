@@ -47,10 +47,10 @@ export default function PolicyPage() {
                   <span className="leading-relaxed">
                     During account setup at{" "}
                     <a
-                      href="/"
+                      href="https://v0-squorum-site.vercel.app"
                       className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 underline underline-offset-2"
                     >
-                      https://squorum-sms-opt-in.vercel.app
+                      https://v0-squorum-site.vercel.app
                     </a>
                     , users enter their mobile number.
                   </span>
@@ -95,7 +95,7 @@ export default function PolicyPage() {
                     href="/screenshot"
                     className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 underline underline-offset-2"
                   >
-                    https://squorum-sms-opt-in.vercel.app/screenshot
+                    https://v0-squorum-site.vercel.app/screenshot
                   </a>
                 </p>
               </div>
