@@ -1,0 +1,37 @@
+# Squorum — Pickleball Court Directory
+
+> Squorum is a pickleball court directory and SMS-based game coordination agent for the upper Midwest.
+
+## Pages
+
+- [All Courts](/courts): Browse pickleball courts by state
+- [Minnesota Courts](/courts/minnesota): Pickleball courts across Minnesota
+- [Iowa Courts](/courts/iowa): Pickleball courts across Iowa
+
+## Data
+
+Each court listing includes:
+- Name, address, city, state, zip code
+- Court count (indoor and outdoor breakdown)
+- Surface type (concrete, asphalt, sport court, wood, composite)
+- Access type (public, private, semi-private)
+- Cost (free, per hour, membership, drop-in)
+- Amenities (restrooms, water, parking, lighting, and more)
+- Reservation requirements and booking links
+- GPS coordinates
+
+## Coverage
+
+- Minnesota: 444 courts across 100+ cities
+- Iowa: 290 courts across 100+ cities
+- Data sourced from Pickleheads, municipal parks departments, and manual verification
+
+## API
+
+Court data is available via Supabase public API with row-level security.
+Table: `pickleball_locations` — SELECT access enabled for all.
+
+## Contact
+
+- SMS: Text any message to the Squorum number to coordinate pickleball games
+- Web: https://squorum.com
